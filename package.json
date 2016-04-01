@@ -1,0 +1,11 @@
+{
+  "name": "image-optimization",
+  "version": "0.1.0",
+  "dpendencies": {},
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "imagemin-mozjpeg": "latest"
+  }
+}
